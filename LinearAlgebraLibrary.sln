@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinearAlgebraLibrary", "LinearAlgebraLibrary\LinearAlgebraLibrary.csproj", "{B885C3BB-7B04-4AAA-ACBF-BC195AB6E368}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinearAlgebraLibraryUnitTests", "LinearAlgebraLibraryUnitTests\LinearAlgebraLibraryUnitTests.csproj", "{84A0CA14-D674-4069-B5B1-9AD804F9F002}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B885C3BB-7B04-4AAA-ACBF-BC195AB6E368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B885C3BB-7B04-4AAA-ACBF-BC195AB6E368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B885C3BB-7B04-4AAA-ACBF-BC195AB6E368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B885C3BB-7B04-4AAA-ACBF-BC195AB6E368}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84A0CA14-D674-4069-B5B1-9AD804F9F002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84A0CA14-D674-4069-B5B1-9AD804F9F002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84A0CA14-D674-4069-B5B1-9AD804F9F002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84A0CA14-D674-4069-B5B1-9AD804F9F002}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B722137A-6984-4382-98E9-99FCEC24A776}
+	EndGlobalSection
+EndGlobal
